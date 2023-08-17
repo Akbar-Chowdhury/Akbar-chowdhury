@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I am Akbar Hossain.
 
-<!--
-**Akbar-Chowdhury/Akbar-chowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on improving my skills in the field of machine learning  
+- 🌱 I’m currently learning supervised learning 
+- 👯 I’m looking to dive into the world of machine learning 
+- 🤔 I am looking to find new opportunities  
+- 💬 
+- 📫 How to reach me: akbarhossain.c@gmail.com
+- 😄 Pronouns: He/Him/his
+- ⚡ Fun fact: when you seek happiness, you do what you make happy 😁 
+
